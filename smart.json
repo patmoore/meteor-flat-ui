@@ -1,0 +1,9 @@
+{
+  "name": "flat-ui",
+  "description": "Flat Web User Interface Kit. http://rateit.codeplex.com/",
+  "homepage": "https://github.com/erikpukinskis",
+  "author": "Erik Pukinskis <erik@snowedin.net>)",
+  "version": "0.0.1",
+  "git": "https://github.com/erikpukinskis/meteor-flat-ui.git",
+  "packages": {}
+}
