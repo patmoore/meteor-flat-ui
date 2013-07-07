@@ -2,9 +2,9 @@
 
 [Flat UI](http://designmodo.github.io/Flat-UI/) packaged for Meteor using [Meteorite](https://github.com/oortcloud/meteorite).
 
-## Installation
+### Installation
 
-The preferred method is to add this package directly into your Metorite's `smart.json` package file:
+The preferred method is to add this package directly into your Meteorite's `smart.json` package file:
 
 ```javascript
 {
@@ -18,6 +18,12 @@ The preferred method is to add this package directly into your Metorite's `smart
 ```
 
 Then run `mrt install`.
+
+### Don't have Meteorite, yet?
+
+It's easy! Just run `sudo -H npm install -g meteorite` (provided you already have the latest Node/NPM). For more info visit this page:
+
+https://github.com/oortcloud/meteorite#installing-meteorite
 
 ### To rebuild with a new version of Flat UI
 
