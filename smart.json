@@ -1,9 +1,14 @@
 {
   "name": "flat-ui",
-  "description": "Flat Web User Interface Kit. http://rateit.codeplex.com/",
-  "homepage": "https://github.com/erikpukinskis",
-  "author": "Erik Pukinskis <erik@snowedin.net>)",
-  "version": "0.0.1",
-  "git": "https://github.com/erikpukinskis/meteor-flat-ui.git",
-  "packages": {}
+  "description": "FlatUI for Meteor. http://designmodo/flat-free/ ; http://www.meteor.com/, original meteor package by Erik Pukinskis <erik@snowedin.net>",
+  "homepage": "https://github.com/electricjesus",
+  "author": "Erik Pukinskis <erik@snowedin.net>, Seth Malaki <seth.malaki@gmail.com>",
+  "version": "0.0.2",
+  "git": "https://github.com/electricjesus/meteor-flat-ui.git",
+  "packages": {
+    "bootstrap-updated" : {
+        "branch" : "master",
+        "git" : "https://github.com/electricjesus/bootstrap-updated.git"
+    }
+  }
 }

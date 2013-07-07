@@ -17,9 +17,15 @@ The preferred method is to add this package directly into your Metorite's `smart
 }
 ```
 
+Then run `mrt install`.
+
 ### To rebuild with a new version of Flat UI
 
 Copy the new assets into the assets folder and run `ruby process.rb` from root. You can muck with which files are included by changing the IGNORE array in process.rb.
+
+### Dependencies
+
+Requires `bootstrap-updated` package. It should install automatically when you run `mrt install` described in the previous step(s).
 
 ### Disclaimer
 
