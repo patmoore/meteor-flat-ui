@@ -10,6 +10,7 @@ Package.on_use(function (api) {
     'assets/js/jquery-1.8.3.min.js',
     'assets/js/jquery-ui-1.10.3.custom.min.js',
     'assets/fonts/icomoon-session.json',
+    'assets/js/bootstrap-select.js',
     'assets/js/bootstrap-switch.js',
     'assets/js/jquery.ui.touch-punch.min.js',
     'assets/js/flatui-radio.js',
@@ -25,7 +26,7 @@ Package.on_use(function (api) {
     'assets/fonts/Flat-UI-Icons.eot',
     'assets/fonts/Flat-UI-Icons.dev.svg',
     'assets/fonts/Flat-UI-Icons.svg',
-    'assets/js/bootstrap-select.js',
+    'assets/js/bootstrap.min.js',
     'assets/images/icons/Clipboard@2x.png',
     'assets/images/icons/Pocket@2x.png',
     'assets/images/icons/Infinity-Loop@2x.png',
@@ -42,7 +43,8 @@ Package.on_use(function (api) {
     'assets/images/icons/Chat@2x.png',
     'assets/images/switch/mask-square.png',
     'assets/images/switch/mask.png',
-    'assets/css/flat-ui.css'
+    'assets/css/flat-ui.css',
+    'assets/css/flat-ui-icons-reset.css'
     // END FILES
   ], 'client');
 });
