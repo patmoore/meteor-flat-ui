@@ -29,10 +29,6 @@ https://github.com/oortcloud/meteorite#installing-meteorite
 
 Copy the new assets into the assets folder and run `ruby process.rb` from root. You can muck with which files are included by changing the IGNORE array in process.rb.
 
-### Dependencies
-
-Requires `bootstrap-updated` package. It should install automatically when you run `mrt install` described in the previous step(s).
-
 ### Disclaimer
 
 This fork's purpose is for my own personal documentation on how I use this package by @erikpukinskis. I cannot guarantee that everything here would work the same way on your respective systems. 
