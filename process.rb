@@ -10,7 +10,7 @@ def rewrite_css_paths
 end
 
 # All of the paths to include in the package
-IGNORE = %w{. .. .DS_Store demo favicon.ico footer illustrations login tile todo video}
+IGNORE = %w{. .. .DS_Store demo favicon.ico footer illustrations}
 def paths(path)
   return [path] unless File.directory? path
 
