@@ -43,6 +43,7 @@ Package.on_use(function (api) {
     'assets/images/icons/Chat@2x.png',
     'assets/images/switch/mask-square.png',
     'assets/images/switch/mask.png',
+    'assets/css/bootstrap.css',
     'assets/css/flat-ui.css',
     'assets/css/flat-ui-icons-reset.css'
     // END FILES
