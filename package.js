@@ -65,9 +65,9 @@ Package.on_use(function (api) {
     'assets/images/video/volume-off-2x.png',
     'assets/images/video/fullscreen-2x.png',
     'assets/images/video/fullscreen.png',
-    'assets/css/bootstrap.css'
+    'assets/css/bootstrap.css',
     'assets/css/flat-ui.css',
-    'assets/css/flat-ui-icons-reset.css',
+    'assets/css/flat-ui-icons-reset.css'
     // END FILES
   ], 'client');
 });
